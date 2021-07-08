@@ -18,7 +18,7 @@ Bei der ersten Frage, wie wichtig es den Unternehmen ist, Cloud Services in eine
 
 ![image](/diagrams/question1.png)
  
- ### Frage 2
+### Frage 2
  Bei drei der vier beteiligten Unternehmen gibt es kein Monitoring der CO2 Emissionen.
  ![image](/diagrams/question2.png)
  ### Frage 3
