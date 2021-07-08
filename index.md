@@ -62,7 +62,8 @@ Von vier Beteiligten haben zwei Unternehmen kein Ranking in Bezug auf den Energi
 
 ### Frage 10 <br>
 <p align="justify">
-Weiters haben zwei Teilnehmer auch ein Ranking ihrer Cloud Services mit dem höchsten Energieverbrauch angegeben. Dazu nachfolgend eine Auflistung der energiereichsten Services in den Unternehmen:
+Weiters haben zwei Teilnehmer auch ein Ranking ihrer Cloud Services mit dem höchsten Energieverbrauch angegeben. Dazu nachfolgend eine Auflistung der energiereichsten Services in den Unternehmen:</p>
+
 1.	metal as a service
 2.	gpu as a service
 3.	database as a service
@@ -76,23 +77,27 @@ Weiters haben zwei Teilnehmer auch ein Ranking ihrer Cloud Services mit dem höc
 
 Das andere Unternehmen hat angegeben, dass sie mehr Energie bei den Backup Services verbrauchen als für andere Services im Unternehmen, aufgrund der hohen Anzahl an spinning disks (HDD’s).<br>
 
-Da uns vor alle der Begriff Metal as a Service aufgefallen ist und wir keinen Bezug dahingehend hatten, möchten wir kurz nachfolgend auf den Begriff Metal as a Service eingehen: </p>
+Da uns vor alle der Begriff Metal as a Service aufgefallen ist und wir keinen Bezug dahingehend hatten, möchten wir kurz nachfolgend auf den Begriff Metal as a Service eingehen: 
+
 
 ## Metal as a Service /Metal (Bare-Metals) as a Service <br>
 ### Bedeutung: <br>
 <p align="justify">
 Hierbei geht es um die Vermietung von Bare-Metals (echter physische Hardware) von Dienstleiter, anstatt diese selbst zu kaufen. Bei Metal-as-a-Service (MAAS) geht es einfach ausgedrückt darum, dass Unternehmen hunderte bis sogar tausende Server auf Basis echter Hardware im eigenen Rechenzentrum betreiben können. Über den Dienst kann auf der Hardware im eigenen Netzwerk eine private Cloud auf Basis echter Server erstellt werden. Über diesen Weg lassen sich Betriebssysteme, wie z.B. „Ubuntu“, „CentOS“, „Windows“ und „Red Hat Linux Enterprise“ (RHEL) installieren - mit mehreren Images. </p><br>
 
-<p align="justify">
-**Beispiel:** Ein Server im Netzwerk wird mit dem OS Ubuntu betrieben. Auf diesem Server wird die MAAS-Software für das Rechenzentrum installiert. Dieser Server steuert die private Hardware-Cloud im eigenen Rechenzentrum und verfügt über die notwendigen Ressourcen und Images. Die Verwaltung erfolgt über eine Web-Oberfläche. Mit dem Dienst im lokalen Rechenzentrum lassen sich alle anderen hardwarebasierten Server im Netzwerk installieren. [Joos & Ostler] </p>
+**Beispiel:** 
+<p align="justify">Ein Server im Netzwerk wird mit dem OS Ubuntu betrieben. Auf diesem Server wird die MAAS-Software für das Rechenzentrum installiert. Dieser Server steuert die private Hardware-Cloud im eigenen Rechenzentrum und verfügt über die notwendigen Ressourcen und Images. Die Verwaltung erfolgt über eine Web-Oberfläche. Mit dem Dienst im lokalen Rechenzentrum lassen sich alle anderen hardwarebasierten Server im Netzwerk installieren. [Joos & Ostler] </p>
+
 
 ## Erkenntnis der Umfrage <br>
 <p align="justify">
 Das Monitoring der CO2 Emissionen wird auch für die Unternehmen immer wichtiger und bereits ein Viertel der Befragten monitoren schon aktiv ihren Energieverbrauch und haben sogar eine interne Aufzeichnung. Leider wurden keine genaueren Angaben angeben, wie das Monitoring durchgeführt wird. Somit gibt es offensichtlich bereits eine Auflistung der CO2 Werte für die Reduzierung und der Verkleinerung des CO2- Fußabdrucks intern, jedoch ist noch eine geringe Transparenz hinsichtlich der zur Verfügungstellung der Werte für den Endkonsumente gegeben. Außerdem hat ein Unternehmen auch angegeben, dass es interne Standards gibt, welche das Monitoring der Services vorgeben sowie eine zuständige Abteilung / Person, welche sich mit dem Thema beschäftigt. Auch die Energieeffizienz der Services liegt den Unternehmen sehr stark am Herzen, sodass bereits drei der vier Befragten zu 100 Prozent erneuerbare Energie nutzen. </p>
 
+
 ## Ausgangssituation <br>
 <p align="justify">
 Das Cloud Computing nimmt immer mehr einen größeren Stellenwert ein, wird von Tag zu Tag bedeutender und ist ein sogenannter Hype in der Computerwelt, sei es die AWS Cloud, Azure Cloud oder Google Cloud usw. All diese Cloudlösungen ermöglichen es Unternehmen und auch Privatkunden ihre Daten wie z.B. in OneDrive oder Dropbox aber auch Anwendungen in das Internet auszulagern, ohne die eigenen Anwendungen und Daten physisch auf den heiminternen PCs oder Festplatten zu speichern. Das ermöglicht Unabhängigkeit, Skalierbarkeit, Flexibilität und reduziert auf lange Sicht gesehen Kosten für die Wartung und Instandhaltung der eigenen Infrastruktur. Die Konsumenten und Unternehmen profitieren von dieser Nutzung und den Möglichkeiten, allerdings hinterlässt dies enormen Schaden bei der Umwelt. Man geht davon aus, dass bis 2025 der europäische Energiebedarf von Rechenzentren allein durch das Cloud Computing auf mehr als 90 Terawattstunden pro Jahr ansteigen wird. Vergleicht man den Wert mit Werten des Energieverbrauchs von Ländern, dann wird man würde man durch den Einsatz von Cloud Computing jährlich mehr Energie als das Land Österreich im Jahr benötigt (75 Terawattstunden), verbrauchen. Grund für den enormen Energieanstieg ist einerseits die zunehmende Nutzung der Cloud Services aber auch aufgrund der Digitalisierung. Somit wäre es sinnvoll den Energiebedarf des Cloud-Computings auf energieeffiziente Methoden zu minimieren (z.B. erneuerbarer Energie) oder auch die Nutzung der Abwärme der Rechenzentren für die Einspeisung ins Fernwärmenetz, um so den Energieverbrauch nachhaltig zu gestalten und dadurch auch langfristig zu reduzieren, ohne auf die Funktionalitäten des Cloud-Computings verzichten zu müssen. Auch wäre es für die Anwender und Nutzer der Cloud Services von Vorteil, wenn diese mehr Transparenz über die Cloud Anbieter sowie Informationen über den Ausstoß an CO2-Äquivalent ihrer genutzten Cloud Services erhalten würden. Um den Anstieg des Energieverbrauchs reduzieren zu können müsste vor allem die Wirtschaft mit der Politik zusammenarbeiten, indem man auf den Einsatz energieeffizienter Technologien setzt und auch in der Forschung- und Entwicklungspolitik die richtigen Maßnahmen trifft. [Environment Agency Austria 2020] </p>
+
 
 ## Standards und Regulierungen <br>
 <p align="justify">
@@ -105,6 +110,7 @@ Unterhalb eine Grafik die beschreibt, wie die Entwicklung des Energieverbrauchs 
 ![image](/diagrams/developmentenergydemanddatacenter.jpg) <br>
 [European Commission a 2021]
 
+
 ## Verhaltenskodex für Energieeffizienz in Rechenzentren <br>
 <p align="justify">
 Basierend auf den steigenden Energieverbrauch der Rechenzentren wurde der Verhaltenskodex entwickelt, um die negativen Auswirkungen auf Umwelt, Wirtschaft usw. zu reduzieren. Ziel des Kodex ist es, die Betreiber und Eigentümer der Rechenzentren zu informieren und diese aufzufordern Maßnahmen zu treffen, um den Energieverberbrauch ihrer Sever kostengünstig zu senken, ohne die Funktionen der Rechenzentren einzuschränken. Es werden sogenannte Best Practices zur Verbesserung des Energiebedarfs der Rechenzentren und Ziele der Energieeffizienz beschrieben. </p>
@@ -115,32 +121,38 @@ Laut dem Artikel „Europa nähert sich den Gesetzen zu grünen Rechenzentren“
 <p align="justify">
 „Unsere Empfehlung lautet, keine Gesetze zu erlassen, die die Massenverschiebung von Servern aus Unternehmensrechenzentren in Colocation, Managed Service und Cloud verlangsamen“. „Und wenn Sie uns eine Steuer auferlegen, zwingen Sie die Unternehmen nur dazu, ihre Server in ihren Rechenzentren zu belassen, die normalerweise alt und ineffizient sind.“, argumentiert Michael Winterson, European Managing Director von Equinix und Vorsitzender des Policy Committee der European Data Center Association. Eine alternative Idee laut Winterson wäre, dass man eine gewisse Mindestbetriebsschwelle für die Rechenzentren vorschlägt und somit die grünen von den nicht grünen Rechenzentren unterscheidet. Weiters wird für Strafen und Anreize für die Cloud Provider plädiert, wie z.B. Förderungen bei Investitionen in erneuerbare Technologien oder energieeffiziente Kühlung der Rechenzentren aber auch Strafen für den Betrieb sehr alter und stromhungriger Rechenzentren oder für stromhungrige Kompressoren für die Luftkühlung der Zentren. [Ballard b 2020] </p>
 
+
 ##  Empfehlung und Best Practices für Green Cloud Computing <br>
 <p align="justify">
 Laut der Studie „Energieeffiziente Cloud-Computing-Technologien und Richtlinien für einen umweltfreundlichen Cloud-Markt“ sei in Zukunft eine effizientere Energienutzung der Cloud Services auch möglich, da nicht nur die Energiekosten ansteigen, sondern auch der technische Fortschritt wächst und man zukünftig durch Softwareentwicklung für rechenintensive Anwendungen und künstliche Intelligenz den Energieverbrauch besser regulieren und managen könnte. Auch die Entwicklung der Hardware sollte zukünftig verbessert werden und somit energieeffizienter gestaltet werden. Außerdem sollte eine gewisse Transparenz der Energieeffizienz von Cloud Computing für die Endanwender aber auch für die Unternehmen gegeben sein, damit diese ihre Entscheidung zur Wahl des Cloud Providers leichter treffen und vergleichen können. Weiters wäre die Politik gefordert, gewisse Leitlinien und auch Anreizsysteme für umweltfreundliche Rechenzentren zu entwickeln. Best Practice Beispiele aus der Studie wären, dass man für die Kühlung der Rechenzentren sogenannte Kühlsysteme verwenden könnte, die Abwärme der Server in das nahegelegene Fernwärmekraftwerk einspeisen oder das Bauen der Rechenzentren in kältere Regionen vorantreiben könnte, um den Einsatz von erneuerbarer Energie zu fördern. [Environment Agency Austria 2020] </p>
 
+
 ## Tool <br>
 <p align="justify">
-Bei den Recherchearbeiten zu diesem Thema sind wir auch auf ein interessantes Tool zur Messung des CO2-Fußabdrucks der Cloud gestoßen. Das Tool heißt „Cloud Carbon Footprint“ und kann kostenlos als Open Source Version heruntergeladen und verwendet werden.
- 
+Bei den Recherchearbeiten zu diesem Thema sind wir auch auf ein interessantes Tool zur Messung des CO2-Fußabdrucks der Cloud gestoßen. Das Tool heißt „Cloud Carbon Footprint“ und kann kostenlos als Open Source Version heruntergeladen und verwendet werden.</p>
+
+<p align="justify">
 Mit diesem Tool soll es für Unternehmen möglich sein, die CO2-Emissionen aus der Cloud zu messen, zu überwachen und letztendlich Maßnahmen zu unternehmen, damit die Unternehmen ihre Cloud-Emissionen reduzieren können. Dabei ist die Verbindung zu mehreren Cloud-Anbietern wie z.B. AWS, Google Cloud und Microsoft Azure gewährleistet.
-Das Tool ist ein Open Source Projekt und die Entwicklung wird von der Community gesteuert. Das Tool funktioniert folgendermaßen, indem Nutzungsdaten (Computer, Speicher, Netzwerke usw.) von den großen Cloud-Anbietern abgerufen werden. In weitere Folge wird die geschätzte Energie (Wattstunden) und Treibhausgasemissionen, ausgedrückt als Kohlendioxidäquivalente (metrische Tonnen CO2e), berechnet. Aus ist auch die Möglichkeit gegeben, die Nutzung auf Serviceebene zu messen und somit die wirkliche Serverauslastung zu eruieren.<br>
- 
-Die Ergebnisse der Berechnungen werden visuell in einem Dashboard aufbereitet und dargestellt und somit Entwicklern und Nachhaligkeitsverantwortlichen für diverse Unternehmen zur Verfügung gestellt, um letztendlich Maßnahmen zur Verbesserung und zur Senkung der CO2 Emission umzusetzen.<br>
- 
+Das Tool ist ein Open Source Projekt und die Entwicklung wird von der Community gesteuert. Das Tool funktioniert folgendermaßen, indem Nutzungsdaten (Computer, Speicher, Netzwerke usw.) von den großen Cloud-Anbietern abgerufen werden. In weitere Folge wird die geschätzte Energie (Wattstunden) und Treibhausgasemissionen, ausgedrückt als Kohlendioxidäquivalente (metrische Tonnen CO2e), berechnet. Aus ist auch die Möglichkeit gegeben, die Nutzung auf Serviceebene zu messen und somit die wirkliche Serverauslastung zu eruieren.</p>
+
+<p align="justify">
+Die Ergebnisse der Berechnungen werden visuell in einem Dashboard aufbereitet und dargestellt und somit Entwicklern und Nachhaligkeitsverantwortlichen für diverse Unternehmen zur Verfügung gestellt, um letztendlich Maßnahmen zur Verbesserung und zur Senkung der CO2 Emission umzusetzen.</p>
+
 Auch die Betreiber der Community bekräftigen, dass es aus ihrem Erfahrungsbereich momentan keine Richtlinien für die Berichterstattung von [Scope-3-Emissionen](https://www.carbontrust.com/de/ressourcen/briefing-was-sind-scope-3-emissionen) im Rahmen des Greenhouse Gas (GHG) Protokolls, für die Nutzung von Cloud Anbietern gibt.
- 
-Außerdem gibt es auch eine öffentlich [zugängliche Liste](https://docs.google.com/spreadsheets/d/1O7Ug_eUZvbZA4dTaA-8DNhJhoZikKD2IdD8OeNQipe4/edit#gid=381149164) hinsichtlich der CPU / Watts Research. In dieser Liste findet man diverse CPU-Generationen, mit dessen Cores, Chips, MHz, Beschreibung, Memory und den Watt Verbrauch der diversen Cloud Anbieter wie z.B. AWS oder Azure. Auch gibt es eine Liste aller Intel Prozessoren usw.<br>
- 
+
+Außerdem gibt es auch eine öffentlich [zugängliche Liste](https://docs.google.com/spreadsheets/d/1O7Ug_eUZvbZA4dTaA-8DNhJhoZikKD2IdD8OeNQipe4/edit#gid=381149164) hinsichtlich der CPU / Watts Research. In dieser Liste findet man diverse CPU-Generationen, mit dessen Cores, Chips, MHz, Beschreibung, Memory und den Watt Verbrauch der diversen Cloud Anbieter wie z.B. AWS oder Azure. Auch gibt es eine Liste aller Intel Prozessoren usw.
+
 Weitere Detailinformationen zum Projekt und wie man das Tool nutzt und installiert findet man [hier](https://www.cloudcarbonfootprint.org).
-[Cloud Carbon Footprint a], [Cloud Carbon Footprint b] </p>
+[Cloud Carbon Footprint a], [Cloud Carbon Footprint b]
 
 ### GitHub Url zum Open Source Projekt <br>
 <https://github.com/cloud-carbon-footprint/cloud-carbon-footprint>
 
+
 ## Regionaler Webspace / Cloud Anbieter <br>
 <p align="justify">
 Auch in Österreich gibt es bereits einen Cloud Provider mit Hauptstandort in Wien namens „greenWebspace“, welcher nachhaltig und energieeffizient Webspaces anbietet. Das Unternehmen wurde 2014 mit dem Motto „Let’s Green The Web Together“ gegründet und ist der erste österreichische Anbieter für Hosting und Web Solutions mit 100 Prozent CO2-neutralem Webhosting und kümmert sich zusätzlich um Klima und Web Solutions für die Gemeinwohl-Ökonomie. Nicht nur Webhosting kann betrieben werden, sondern es gibt sogar Angebote von Green Cloud Produkten und Domains. Außerdem gibt es sehr viel Transparenz zum Unternehmen auch was den Standort des Datencenters betrifft. Das Unternehmen wird aus 100 Prozent Ökostrom aus Wasserkraft des Anbieters „MeinAplenstrom“ betrieben und es wird spannenderweise auch pro User Account jährlich automatisch ein Baum gepflanzt. Außerdem wird explizit darauf hingewiesen, wieso sich das Unternehmen für diese Art der erneuerbaren Energie entschieden hat und welche Vorteile damit verbunden sind. Auch auf den Einsatz ihrer Hardware wird explizit eingegangen. Falls die Hardware nicht mehr für das primäre Einsatzziel verwendet werden kann, wird diese andersweit eingesetzt, um so die Ressourcenverschwendung zu minimieren. Weiters findet man auch die Daten zum jährlichen CO2 Verbrauch und weitere interessante Informationen, dass z.B. der Zugriff auf die Website durch die Aufforstung wieder kompensiert wird. Ein Hinweis zur Möglichkeit einer detaillierten Messung und Aufzeichnung der Energieeffizienz der genutzten Cloud Services für den Kunden, sowie das zur Verfügung stellen der Energiedaten dem Kunden, konnte leider nicht ausfindig gemacht werden. [greenWebspace 2021] </p>
+
 
 ## Cloud Anbieter Azure <br>
 <p align="justify">
@@ -162,6 +174,7 @@ Google misst explizit den Energieverbrauch der Rechenzentren mittels Online-Leis
  
 Der PUE-Wert ist ein Wert zur Messung der Effizienz. Hätte man einen PUE-Wert von 2,0 dann bedeutet das, dass für jedes Watt, das durch den Betrieb von IT-Geräten anfällt, ein weiteres Watt zu dessen Kühlung aufgewendet werden muss. Je näher der Wert bei 1,0, desto weniger Energie muss für die Kühlung aufgewandt werden und desto mehr Energie wird für die reine Rechenleistung selbst aufgewandt. [Google Rechenzentren 2021] </p>
 
+
 ## Cloud Anbieter Amazon <br>
 <p align="justify">
 Auch Amazon verfolgt bei ihrer Cloudinfrastruktur einen nachhaltigen Ansatz. 2018 wurden bereits mehr als 50 Prozent der verbrauchten Energie für Amazon Web Services von erneuerbaren Energien geliefert. Des Weiteren werden zusätzlich erneuerbare Energieprojekte von Amazon finanziert, wie z.B. Windparks und Solarparks, um bis zum Jahr 2040 die Netto-Null-CO2-Emissionen zu erreichen. [AWS 2021]
@@ -170,12 +183,12 @@ Die Nachhaltigkeit konnte Amazon durch Investitionen in Stromabnahmeverträge, w
  
 Jedoch ist interessant, dass Amazon angibt, aus welchen Messungen ihr CO2-Fußabdruck zustande kommt. Dabei wird auf fünf Modelle Wert gelegt, um einen detaillierten Blick auf den Fußabdruck zu haben. Unter dem Modell Elektrizität ist erwähnenswert, dass auch der Energieverbrauch der Büros und auch der Rechenzentren gemessen wird, jedoch gibt es keine weiteren Infos ob auch die einzelnen Services gemessen werden. [Amazon 2021], [Amazon 2020] 
 
-
 Zwar geben alle der drei genannten Cloudanbietern öffentlich bekannt, dass sie CO2 neutral agieren und dies auch belegen können. Dennoch ist bei unseren Recherchen aufgefallen, dass bei keiner dieser drei Cloudanbietern die Möglichkeit für den Endkonsumenten besteht, den CO2 Verbrauch von einzelnen Services zu erfahren. </p>
+
 
 ## Bewertung der drei Cloud Provider <br>
 <p align="justify">
-Wired hat zusätzlich eine Bewertung der drei Cloud Provider basierend auf den Erkenntnissen aus ihrem [Report](https://www.wired.com/story/amazon-google-microsoft-green-clouds-and-hyperscale-data-centers/) durchgeführt:
+Wired hat zusätzlich eine Bewertung der drei Cloud Provider basierend auf den Erkenntnissen aus ihrem [Report](https://www.wired.com/story/amazon-google-microsoft-green-clouds-and-hyperscale-data-centers/) durchgeführt:</p>
 
 ### Bewertung Azure: <br>
 -	Gesamtgrünheit: B
@@ -194,7 +207,7 @@ Wired hat zusätzlich eine Bewertung der drei Cloud Provider basierend auf den E
 -	Energieeffizienz: B
 -	Transparenz: F
 -	Technologische Innovation: Unbekannt <br>
-[Oberhaus 2019]</p>
+[Oberhaus 2019]
  
 ## Weiteres <br>
 <p align="justify">
@@ -223,7 +236,6 @@ Unterhalb ein Bild aus dem Clicking Clean Report mit der Übersicht diverser IKT
 Zusammengefasst kann gesagt werden, dass es bereits eine Menge an Standards, Verhaltenskodizes, Guidelines und Richtlinien für energieeffizientes Cloud Computing gibt, jedoch wurde in keiner der Publikationen auf Standards und Richtlinien bezüglich der Themen Energietransparenz und Messung des Energieverbrauchs der einzelnen Cloudservices hingewiesen und eingegangen. Während der Wille und auch schon Aktionen für die Reduzierung des Energieverbrauches der Rechenzentren Anklang genommen hat, sind jedoch die Regulierungen zur Energietransparenz der Unternehmen sowie die Veröffentlichung von Energiedaten für die Bevölkerung noch im Hintergrund geblieben. Auch gibt es schon veröffentlichte Berichte wie z.B. der [Clicking Clean Report](https://www.greenpeace.de/sites/www.greenpeace.de/files/publications/20170110_greenpeace_clicking_clean.pdf) von Greenpeace oder auch auf den einzelnen Seiten der großen Cloudanbieter, wie z.B. Google, Amazon und Microsoft, welche Hinweise über den energieeffizienten Einsatz der Energie zum Betrieb der Rechenzentren geben oder auch hinsichtlich ihrer Energie Transparenz. Jedoch gibt es keine expliziten Angaben zur Transparenz für die Einsichtnahme des Energieverbrauchs der einzelnen Cloudservices. Lediglich gibt es schon einige Tools bzw. ein Tool, das wir ausfindig machen konnten namens „Cloud Carbon Footprint“, welches den CO2-Fußabdruck der Cloud sogar bis auf Service Ebene für diverse Anbieter messen kann. Auch wird die Messung bzw. eine Aufzeichnung des Energieverbrauchs der Services von einzelnen Unternehmen bereits durchgeführt, siehe Ergebnis Umfrage, jedoch werden die Daten noch nicht veröffentlich bzw. sind nicht für den End User frei zugänglich. Somit messen die Unternehmen aus Eigeninteresse, um ihre Services energieeffizienter gestalten zu können, was natürlich sehr positiv zu betrachten ist, jedoch sollten auch die End User wissen, woher der Strom für ihre Services kommt bzw. wieviel Energie ihr betriebener Service in der Cloud benötigt, um Vergleiche zwischen den Anbietern tätigen zu können. Aber vermutlich ist das auch das Problem, dass die Cloud Provider ihren Energieverbrauch nicht veröffentlichen, entweder weil sie keine Messung ihrer Cloud Services durchführen oder keine Transparenz ihres Energieverbrauchs selbst haben, weil diese aufgrund von nicht erneuerbarer Strombeschaffung ein schlechteres Image hätten und womöglich der User mehr für den Service zahlen müsste als bei einem anderen Anbieter. Somit ist die Transparenz für diverse Cloud Provider ein schwieriges Thema, da dies eine Imagefrage bzw. eine Wettbewerbsfrage für die Cloud Provider darstellt. Vermutlich gibt es aus diesem Grund noch keine einheitliche Richtline oder Verordnungen von den diversen Regierungen für eine allgemeine Energietransparenz für Cloud Services, jedoch dürfte aufgrund der immer stärker werdenden Präsenz des Themas auch in Zukunft Regulierungen und Richtlinien für die Energietransparenz der Cloud Services Anklang bekommen. </p>
 
 # Quellen <br>
-<p align="justify">
 
 [Joos & Ostler] <br>
 Joos, Thomas; Ostler, Ulrike: Open Source für Bare Metal-as-a-Service, 2019, abgerufen am 30.06.2021<br>
@@ -326,5 +338,5 @@ Energieeffizienzgesetz<br>
 
 EU-Kriterien für umweltfreundliche öffentliche Beschaffung für Rechenzentren<br>
 <https://publications.jrc.ec.europa.eu/repository/handle/JRC118558>
-</p>
+
 
