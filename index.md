@@ -221,7 +221,7 @@ https://greenwebspace.com/ueber-uns/transparenz/
 
 [Microsoft Azure 2021]<br>
 Microsoft Azure: Azure-Nachhaltigkeit. Auswirkungen vor Ort, 2021, abgerufen am 07.07.2021,<br>
-Quelle: https://azure.microsoft.com/de-de/global-infrastructure/sustainability/#local-impact 
+https://azure.microsoft.com/de-de/global-infrastructure/sustainability/#local-impact 
 
 [Oberhaus 2019]<br>
 Oberhaus, Daniel: Amazon, Google, Microsoft: Here's Who Has the Greenest Cloud. A WIRED report card on the top three cloud providers shows how their environmental claims stack<br> up, Hrsg. WIRED, 2019, abgerufen am 07.07.2021,<br>
