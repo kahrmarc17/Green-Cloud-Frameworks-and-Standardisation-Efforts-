@@ -13,12 +13,12 @@ Link zur [Umfrage](https://github.com/kahrmarc17/Green-Cloud-Frameworks-and-Stan
 
 ## Auswertung
 
-### Frage 1<br>
+ ### Frage 1<br>
 Bei der ersten Frage, wie wichtig es den Unternehmen ist, Cloud Services in einer energieeffizienten Form zur Verfügung zu stellen, haben die beteiligten Unternehmen von einer Skala von 1 bis 100 Prozent folgendermaßen geantwortet. Zwei Teilnehmer haben bei der Wichtigkeit rund 75 Prozent angegeben, ein Teilnehmer nur rund 10 Prozent und ein weiterer Teilnehmer rund 85 Prozent. Das ergibt einen Mittelwert von rund 61,25 Prozent. Somit ist zu sagen, dass die Wichtigkeit von energieeffizienten Cloud Services bereits einen sehr hohen Stellenwert hat und auch in Zukunft zunehmen wird.
 
 ![image](/diagrams/question1.png)
  
-### Frage 2 <br>
+ ### Frage 2 <br>
  Bei drei der vier beteiligten Unternehmen gibt es kein Monitoring der CO2 Emissionen.
  ![image](/diagrams/question2.png)
  
