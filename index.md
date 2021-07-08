@@ -118,6 +118,8 @@ Die Nachhaltigkeit wird durch den Einsatz erneuerbarer Energien aber auch durch 
 Google misst explizit den Energieverbrauch der Rechenzentren mittels Online-Leistungsmessgeräte und der dazugehörigen Komponenten wie z.B. für die Kühlinfrastruktur sowie für die IT-Hardware und weitere Stromverbraucher, welche mit hunderten von Messgeräten erfasst werden. Weitere Informationen was und wie gemessen wird findet man unter den [FAQ’s](https://www.google.com/about/datacenters/efficiency/) . Gemessen wird der PUE-Wert (Power Usage Effectiveness). Die Messungen werden laufend im gesamten Jahr weltweit durchgeführt. Dabei hat sich ergeben, dass nur rund zehn bis elf Prozent (PUE-Wert 1,10) des Energieaufwands für die Kühlung und in die Stromumwandlung aufgewendet wird und der Rest der Energie rein für die Rechenleistung des Servers herangezogen wird. Leider ist auch hier nicht ersichtlich, ob die einzelnen Cloud Services auch noch einzeln gemessen werden. <br>
 Der PUE-Wert ist ein Wert zur Messung der Effizienz. Hätte man einen PUE-Wert von 2,0 dann bedeutet das, dass für jedes Watt, das durch den Betrieb von IT-Geräten anfällt, ein weiteres Watt zu dessen Kühlung aufgewendet werden muss. Je näher der Wert bei 1,0, desto weniger Energie muss für die Kühlung aufgewandt werden und desto mehr Energie wird für die reine Rechenleistung selbst aufgewandt. [Google Rechenzentren 2021]
 
+## Cloud Anbieter Amazon
+
 
 
   #  Vorlage
