@@ -40,8 +40,28 @@ Bei der ersten Frage, wie wichtig es den Unternehmen ist, Cloud Services in eine
  ### Frage 9
  Von vier Beteiligten haben zwei Unternehmen kein Ranking in Bezug auf den Energieverbrauch von ihren Services, bei einem Unternehmen ist solch ein Ranking nicht bekannt und nur bei einem Unternehmen gibt es ein Ranking ihrer Services. 
   ![image](/diagrams/question9.png)
-  
-  
+ ### Frage 10
+ Weiters haben zwei Teilnehmer auch ein Ranking ihrer Cloud Services mit dem höchsten Energieverbrauch angegeben. Dazu nachfolgend eine Auflistung der energiereichsten Services in den Unternehmen:
+1.	metal as a service
+2.	gpu as a service
+3.	database as a service
+4.	machine learning service
+5.	virtual machine cluster service
+6.	virtual machines service
+7.	container as a service
+8.	volume storage
+9.	object storage
+10.	other services (DNS, Networking)
+
+Das andere Unternehmen hat angegeben, dass sie mehr Energie bei den Backup Services verbrauchen als für andere Services im Unternehmen, aufgrund der hohen Anzahl an spinning disks (HDD’s).
+
+Da uns vor alle der Begriff Metal as a Service aufgefallen ist und wir keinen Bezug dahingehend hatten, möchten wir kurz nachfolgend auf den Begriff Metal as a Service eingehen:
+
+ ## Metal as a Service /Metal (Bare-Metals) as a Service
+ ### Bedeutung:
+ Hierbei geht es um die Vermietung von Bare-Metals (echter physische Hardware) von Dienstleiter, anstatt diese selbst zu kaufen. Bei Metal-as-a-Service (MAAS) geht es einfach ausgedrückt darum, dass Unternehmen hunderte bis sogar tausende Server auf Basis echter Hardware im eigenen Rechenzentrum betreiben können. Über den Dienst kann auf der Hardware im eigenen Netzwerk eine private Cloud auf Basis echter Server erstellt werden. Über diesen Weg lassen sich Betriebssysteme, wie z.B. „Ubuntu“, „CentOS“, „Windows“ und „Red Hat Linux Enterprise“ (RHEL) installieren - mit mehreren Images.
+ 
+**Beispiel:** Ein Server im Netzwerk wird mit dem OS Ubuntu betrieben. Auf diesem Server wird die MAAS-Software für das Rechenzentrum installiert. Dieser Server steuert die private Hardware-Cloud im eigenen Rechenzentrum und verfügt über die notwendigen Ressourcen und Images. Die Verwaltung erfolgt über eine Web-Oberfläche. Mit dem Dienst im lokalen Rechenzentrum lassen sich alle anderen hardwarebasierten Server im Netzwerk installieren. [Joos & Ostler]
   
 You can use the [editor on GitHub](https://github.com/kahrmarc17/Green-Cloud-Frameworks-and-Standardisation-Efforts-/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
