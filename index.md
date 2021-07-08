@@ -242,18 +242,18 @@ https://sustainability.aboutamazon.com/carbon-methodology.pdf
 Cook, Gary; Van Horn, Jodie: How dirty is your data?. A Look at the Energy Choices That Power Cloud Computing, Hrsg. Greenpeace International, Amsterdam 2010, abgerufen am 28.06.2021,
 http://archivo-es.greenpeace.org/espana/Global/espana/report/cambio_climatico/dirty-data-report-greenpeace.pdf
 
-[Cook et al 2017]
+[Cook et al 2017]<br>
 Cook, Gary et al.: Clicking Clean: Who is winning the race to build a green internet?, Hrsg. Greenpeace Inc., Washington 2017, abgerufen am 23.06.2021,
 https://www.greenpeace.de/sites/www.greenpeace.de/files/publications/20170110_greenpeace_clicking_clean.pdf
 
-[EU Science Hub 2016]
+[EU Science Hub 2016]<br>
 EU Science Hub: Code of Conduct for Energy Efficiency in Data Centres, 2016, abgerufen am 24.06.2021, https://ec.europa.eu/jrc/en/energy-efficiency/code-conduct/datacentres
 
-[European Commission b 2021]
+[European Commission b 2021]<br>
 European Commission: Energy-efficient Cloud Computing Technologies and Policies for an Eco-friendly Cloud Market, 2020, abgerufen am 05.07.2021, 
 https://digital-strategy.ec.europa.eu/en/library/energy-efficient-cloud-computing-technologies-and-policies-eco-friendly-cloud-market
 
-[Montevecchi, F. et al. 2020]
+[Montevecchi, F. et al. 2020]<br>
 Montevecchi, F., Stickler, T., Hintemann, R., Hinterholzer, S. (2020). Energy-efficient Cloud Computing Technologies and Policies for an Eco-friendly Cloud Market. Final Study Report. Vienna, https://ec.europa.eu/newsroom/dae/document.cfm?doc_id=71330
 
 
@@ -263,18 +263,18 @@ Montevecchi, F., Stickler, T., Hintemann, R., Hinterholzer, S. (2020). Energy-ef
 
 ## Verwandte Literatur:
 
-Verhaltenskodex für Energieeffizienz in Rechenzentren 2021
+Verhaltenskodex für Energieeffizienz in Rechenzentren 2021<br>
 https://e3p.jrc.ec.europa.eu/sites/default/files/documents/publications/jrc123653_jrc119571_2021_best_practice_guidelines_final_v1_1.pdf
 
-Digitalisierungsstrategie
+Digitalisierungsstrategie<br>
 https://ec.europa.eu/digital-single-market/en/content/european-digital-strategy
 
-Ökodesign-Anforderungen an Server und Datenspeicherprodukten
+Ökodesign-Anforderungen an Server und Datenspeicherprodukten<br>
 https://eur-lex.europa.eu/legal-content/DE/TXT/PDF/?uri=CELEX:32019R0424&from=EN
 
-Energieeffizienzgesetz
+Energieeffizienzgesetz<br>
 https://www.bmk.gv.at/themen/energie/effizienz/recht/effizienzgesetz.html
 
-EU-Kriterien für umweltfreundliche öffentliche Beschaffung für Rechenzentren
+EU-Kriterien für umweltfreundliche öffentliche Beschaffung für Rechenzentren<br>
 https://publications.jrc.ec.europa.eu/repository/handle/JRC118558
 
