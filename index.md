@@ -148,6 +148,14 @@ Wired hat zusätzlich eine Bewertung der drei Cloud Provider basierend auf den E
 [Oberhaus 2019]
 
 ## Weiteres
+Auch Greenpeace veröffentlicht immer wieder Berichte hinsichtlich Energie Transparenz, Nutzung erneuerbarer Energien, Energy Fußabdruck im IT-Sektor oder die Energieeffizienz von diversen Unternehmen im IKT Bereich wie z.B. Video Streaming Anbieter, Musikstreaming Anbieter, CDN Anbieter, Cloud Anbieter bis hin zu Sozial Media Anbieter. Dazu gehört auch der im Jahr 2010 veröffentlichte Bericht „How dirty is your data? A Look at the Energy Choices That Power Cloud Computing“. Es werden diverse inhaltliche Punkte hinsichtlich des IT-Kohlenstoffs und Energie Fußabdrucks besprochen, auch diverse Hintergrundinformationen zu den Rechenzentren und wie man richtig erneuerbare Energien bezieht und ein Vergleich diverser Unternehmen hinsichtlich Transparenz, Migration Strategie, Kohle Intensität sowie Index für saubere Energie durchgeführt. Weitere Informationen zu diesem Bericht findet man unter [„How dirty is your data?“](http://archivo-es.greenpeace.org/espana/Global/espana/report/cambio_climatico/dirty-data-report-greenpeace.pdf)
+Wie schon oberhalb erwähnt, wird auch auf die Energie Transparenz der einzelnen Services eingegangen und eine Bewertung durchgeführt, welche in weiterer Folge unter [„How dirty is your data?“](http://archivo-es.greenpeace.org/espana/Global/espana/report/cambio_climatico/dirty-data-report-greenpeace.pdf) nachzulesen ist. [Cook & Von Horn 2010]
+
+Unterhalb ein Ausschnitt der Bewertung der diversen Unternehmen hinsichtlich der bereits oberhalb erwähnten Faktoren.
+
+
+![image](/diagrams/cleancloudpowerreportcard.png)<br>
+[Cook & Von Horn 2010]
 
 
 
