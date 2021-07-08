@@ -1,11 +1,13 @@
 # Green Cloud Frameworks and Standardisation Efforts <br>
 <p align="justify">
-Bestrebungen zur energieeffizienten Nutzung von IT sind in einigen Bereichen bereits seit Jahren erfolgreich – etwa bei der Vergleichbarkeit der Energieeffizienz von CPUs, Speichersystemen, Server-Computern, PCs oder Notebook-Computern, Bildschirmen u.ä. Im stark wachsenden Cloud-Umfeld gibt es bisher kaum Möglichkeiten für die NutzerInnen von Cloudservices, die für einen Cloudservice benötigte Energiemenge zu ermitteln. Viele Cloud Provider beschreiben zwar ihre allgemeinen Bestrebungen zur Umsetzung von CO2-neutralen Rechenzentren und Services, welchen „ökologischen Fußabdruck“ oder Ausstoß an „CO2-Äquivalent“ dabei allerdings die Nutzung eines bestimmten Cloud Services mit sich bringt, wird bisher kaum angegeben. Für höhere Transparenz bei der Energieeffizienz sind Standardisierungen und eventuell auch zwingende gesetzliche Regelungen erforderlich. Diese Arbeit soll eine Einführung in das Problem der Transparenz von Energieeffizienz bei Cloudservices geben. Der aktuelle Stand soll übersichtlich dargestellt werden: Gibt es schon praxistaugliche technische Standards? Sind taugliche gesetzliche Regelungen verfügbar oder absehbar, um Cloud-Provider zu mehr Transparenz zu bringen?</p>
+Bestrebungen zur energieeffizienten Nutzung von IT sind in einigen Bereichen bereits seit Jahren erfolgreich – etwa bei der Vergleichbarkeit der Energieeffizienz von CPUs, Speichersystemen, Server-Computern, PCs oder Notebook-Computern, Bildschirmen u.ä. Im stark wachsenden Cloud-Umfeld gibt es bisher kaum Möglichkeiten für die NutzerInnen von Cloudservices, die für einen Cloudservice benötigte Energiemenge zu ermitteln. Viele Cloud Provider beschreiben zwar ihre allgemeinen Bestrebungen zur Umsetzung von CO2-neutralen Rechenzentren und Services, welchen „ökologischen Fußabdruck“ oder Ausstoß an „CO2-Äquivalent“ dabei allerdings die Nutzung eines bestimmten Cloud Services mit sich bringt, wird bisher kaum angegeben. Für höhere Transparenz bei der Energieeffizienz sind Standardisierungen und eventuell auch zwingende gesetzliche Regelungen erforderlich. Diese Arbeit soll eine Einführung in das Problem der Transparenz von Energieeffizienz bei Cloudservices geben. Der aktuelle Stand soll übersichtlich dargestellt werden: Gibt es schon praxistaugliche technische Standards? Sind taugliche gesetzliche Regelungen verfügbar oder absehbar, um Cloud-Provider zu mehr Transparenz zu bringen?
 
 ## Einführung <br>
 Im Rahmen der Lehrveranstaltung "Selected Topics in Network Technologies" an der Fachhochschule JOANNEUM in Graz, führten die beiden Studenten Florian Gartner, BSc und Marcel Kahr, BSc eine Umfrage zum Thema "Green Cloud Frameworks und Standardisierungsbemühungen" durch. <br>
 In der Umfrage ging es um das Thema Transparenz der Energieeffizienz bei Cloud-Diensten (VM's) sowie um den "ökologischen Fußabdruck" / "Kohlenstoff-Emissionen", der durch die Nutzung bestimmter Cloud-Dienste entsteht. <br>
+
 Für die kurze fünfminütige Umfrage wurde mit weltweitbekannten Cloudprovidern und auch kleineren regionalen Cloudprovidern Kontakt aufgenommen und um die Teilnahme bei der Umfrage gebeten. Die Umfrage wurde in diesem Zusammenhang in englischer Sprache verfasst, da es sich um ein globales Thema handelt und um somit eine Vielzahl an Teilnehmer anzusprechen. <br>
+
 Die gesamte Umfrage wurde anonym durchgeführt und alle Daten wurden vertraulich behandelt. Die Daten wurden nicht an Dritte weitergegeben und nur in zusammengefasster Form in einer GitHub Page veröffentlicht.<br>
 
 Link zur [Umfrage](https://github.com/kahrmarc17/Green-Cloud-Frameworks-and-Standardisation-Efforts-/blob/59de50a6925abb4a67d9037df72f7c4b8f525843/Cloudumfrage_Fragenkatalog_Gartner_Kahr.pdf)
@@ -284,4 +286,5 @@ Energieeffizienzgesetz<br>
 
 EU-Kriterien für umweltfreundliche öffentliche Beschaffung für Rechenzentren<br>
 <https://publications.jrc.ec.europa.eu/repository/handle/JRC118558>
+ </p>
 
