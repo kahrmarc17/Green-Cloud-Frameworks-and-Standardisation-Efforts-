@@ -12,7 +12,37 @@ Die gesamte Umfrage wurde anonym durchgeführt und alle Daten wurden vertraulich
 ## Auswertung
 
 ### Frage 1
+Bei der ersten Frage, wie wichtig es den Unternehmen ist, Cloud Services in einer energieeffizienten Form zur Verfügung zu stellen, haben die beteiligten Unternehmen von einer Skala von 1 bis 100 Prozent folgendermaßen geantwortet. Zwei Teilnehmer haben bei der Wichtigkeit rund 75 Prozent angegeben, ein Teilnehmer nur rund 10 Prozent und ein weiterer Teilnehmer rund 85 Prozent. Das ergibt einen Mittelwert von rund 61,25 Prozent. Somit ist zu sagen, dass die Wichtigkeit von energieeffizienten Cloud Services bereits einen sehr hohen Stellenwert hat und auch in Zukunft zunehmen wird.
 
+![image](/diagrams/question1.png)
+ 
+ ### Frage 2
+ Bei drei der vier beteiligten Unternehmen gibt es kein Monitoring der CO2 Emissionen.
+ ![image](/diagrams/question2.png)
+ ### Frage 3
+ Bei den beteiligten Unternehmen führen drei der vier Unternehmen keine Aufzeichnung ihrer CO2 Bilanzen.
+ ![image](/diagrams/question3.png)
+ ### Frage 4
+ Auf die Frage, ob die Unternehmen interne Regulierungen oder Standards haben, die verpflichtend sind für das Monitoring der C02 Äquivalenz der Services, haben drei der Beteiligten mit nein geantwortet und ein Beteiligter keine Angabe gemacht. Somit ist ersichtlich, dass die Unternehmen zurzeit keine vordefinierten Standards verfolgen hinsichtlich des Monitorings des CO2 Äquivalenz. Falls doch Aufzeichnungen vorgenommen werden, wie bereits bei der vorherigen Frage beantwortet, basiert diese Aufzeichnung auf freiwilliger Basis.
+![image](/diagrams/question4.png)
+ ### Frage 5
+ Bei der Frage, ob es für den Endkonsumenten möglich ist, ihren CO2-Verbrauch, den sie bei der Verwendung von Cloud Services erzeugen einzusehen, gaben alle Unternehmen an, dies nicht zu unterstützen.
+![image](/diagrams/question5.png)
+ ### Frage 6
+ Bei der Frage, wie die Unternehmen ihre CO2 Emissionen monitoren, hat die Hälfte angegeben, dass sie kein Monitoring durchführen und die andere Hälfte gab an, dass sie ihre Services monitoren aber wie genau das Monitoring durchgeführt wird, wurde leider nicht angegeben.
+ ![image](/diagrams/question6.png)
+ ### Frage 7
+ Bei der Frage, ob es eine verantwortliche Person / Abteilung im Unternehmen gibt, welche sich mit dem Thema Green Cloud beschäftigt, gab es unterschiedliche Rückmeldungen. Zwei Teilnehmer haben angegeben, dass es keine verantwortlichen Personen im Unternehmen gibt, ein Teilnehmer hat keine Angaben gemacht und ein Teilnehmer hat angegeben, dass es Verantwortlichkeiten im Unternehmen gibt. 
+ ![image](/diagrams/question7.png)
+ ### Frage 8
+ Bei der Frage, wie viel Prozent der benötigten/eingesetzten Energie für den Betrieb der Cloud Services aus erneuerbarer Energie kommt, haben drei der vier Beteiligten mit 100 Prozent geantwortet und ein Teilnehmer mit rund 83 Prozent.
+  ![image](/diagrams/question8.png)
+ ### Frage 9
+ Von vier Beteiligten haben zwei Unternehmen kein Ranking in Bezug auf den Energieverbrauch von ihren Services, bei einem Unternehmen ist solch ein Ranking nicht bekannt und nur bei einem Unternehmen gibt es ein Ranking ihrer Services. 
+  ![image](/diagrams/question9.png)
+  
+  
+  
 You can use the [editor on GitHub](https://github.com/kahrmarc17/Green-Cloud-Frameworks-and-Standardisation-Efforts-/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
