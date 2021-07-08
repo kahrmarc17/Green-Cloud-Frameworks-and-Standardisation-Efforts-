@@ -1,56 +1,67 @@
 # Green Cloud Frameworks and Standardisation Efforts <br>
 <p align="justify">
-Bestrebungen zur energieeffizienten Nutzung von IT sind in einigen Bereichen bereits seit Jahren erfolgreich – etwa bei der Vergleichbarkeit der Energieeffizienz von CPUs, Speichersystemen, Server-Computern, PCs oder Notebook-Computern, Bildschirmen u.ä. Im stark wachsenden Cloud-Umfeld gibt es bisher kaum Möglichkeiten für die NutzerInnen von Cloudservices, die für einen Cloudservice benötigte Energiemenge zu ermitteln. Viele Cloud Provider beschreiben zwar ihre allgemeinen Bestrebungen zur Umsetzung von CO2-neutralen Rechenzentren und Services, welchen „ökologischen Fußabdruck“ oder Ausstoß an „CO2-Äquivalent“ dabei allerdings die Nutzung eines bestimmten Cloud Services mit sich bringt, wird bisher kaum angegeben. Für höhere Transparenz bei der Energieeffizienz sind Standardisierungen und eventuell auch zwingende gesetzliche Regelungen erforderlich. Diese Arbeit soll eine Einführung in das Problem der Transparenz von Energieeffizienz bei Cloudservices geben. Der aktuelle Stand soll übersichtlich dargestellt werden: Gibt es schon praxistaugliche technische Standards? Sind taugliche gesetzliche Regelungen verfügbar oder absehbar, um Cloud-Provider zu mehr Transparenz zu bringen?
+Bestrebungen zur energieeffizienten Nutzung von IT sind in einigen Bereichen bereits seit Jahren erfolgreich – etwa bei der Vergleichbarkeit der Energieeffizienz von CPUs, Speichersystemen, Server-Computern, PCs oder Notebook-Computern, Bildschirmen u.ä. Im stark wachsenden Cloud-Umfeld gibt es bisher kaum Möglichkeiten für die NutzerInnen von Cloudservices, die für einen Cloudservice benötigte Energiemenge zu ermitteln. Viele Cloud Provider beschreiben zwar ihre allgemeinen Bestrebungen zur Umsetzung von CO2-neutralen Rechenzentren und Services, welchen „ökologischen Fußabdruck“ oder Ausstoß an „CO2-Äquivalent“ dabei allerdings die Nutzung eines bestimmten Cloud Services mit sich bringt, wird bisher kaum angegeben. Für höhere Transparenz bei der Energieeffizienz sind Standardisierungen und eventuell auch zwingende gesetzliche Regelungen erforderlich. Diese Arbeit soll eine Einführung in das Problem der Transparenz von Energieeffizienz bei Cloudservices geben. Der aktuelle Stand soll übersichtlich dargestellt werden: Gibt es schon praxistaugliche technische Standards? Sind taugliche gesetzliche Regelungen verfügbar oder absehbar, um Cloud-Provider zu mehr Transparenz zu bringen?</p>
 
 ## Einführung <br>
+<p align="justify">
 Im Rahmen der Lehrveranstaltung "Selected Topics in Network Technologies" an der Fachhochschule JOANNEUM in Graz, führten die beiden Studenten Florian Gartner, BSc und Marcel Kahr, BSc eine Umfrage zum Thema "Green Cloud Frameworks und Standardisierungsbemühungen" durch. <br>
-In der Umfrage ging es um das Thema Transparenz der Energieeffizienz bei Cloud-Diensten (VM's) sowie um den "ökologischen Fußabdruck" / "Kohlenstoff-Emissionen", der durch die Nutzung bestimmter Cloud-Dienste entsteht. <br>
+In der Umfrage ging es um das Thema Transparenz der Energieeffizienz bei Cloud-Diensten (VM's) sowie um den "ökologischen Fußabdruck" / "Kohlenstoff-Emissionen", der durch die Nutzung bestimmter Cloud-Dienste entsteht.</p> <br>
 
 Für die kurze fünfminütige Umfrage wurde mit weltweitbekannten Cloudprovidern und auch kleineren regionalen Cloudprovidern Kontakt aufgenommen und um die Teilnahme bei der Umfrage gebeten. Die Umfrage wurde in diesem Zusammenhang in englischer Sprache verfasst, da es sich um ein globales Thema handelt und um somit eine Vielzahl an Teilnehmer anzusprechen. <br>
 
-Die gesamte Umfrage wurde anonym durchgeführt und alle Daten wurden vertraulich behandelt. Die Daten wurden nicht an Dritte weitergegeben und nur in zusammengefasster Form in einer GitHub Page veröffentlicht.<br>
+Die gesamte Umfrage wurde anonym durchgeführt und alle Daten wurden vertraulich behandelt. Die Daten wurden nicht an Dritte weitergegeben und nur in zusammengefasster Form in einer GitHub Page veröffentlicht. </p> <br>
 
 Link zur [Umfrage](https://github.com/kahrmarc17/Green-Cloud-Frameworks-and-Standardisation-Efforts-/blob/59de50a6925abb4a67d9037df72f7c4b8f525843/Cloudumfrage_Fragenkatalog_Gartner_Kahr.pdf)
 
 ## Auswertung <br>
 ### Frage 1<br>
-Bei der ersten Frage, wie wichtig es den Unternehmen ist, Cloud Services in einer energieeffizienten Form zur Verfügung zu stellen, haben die beteiligten Unternehmen von einer Skala von 1 bis 100 Prozent folgendermaßen geantwortet. Zwei Teilnehmer haben bei der Wichtigkeit rund 75 Prozent angegeben, ein Teilnehmer nur rund 10 Prozent und ein weiterer Teilnehmer rund 85 Prozent. Das ergibt einen Mittelwert von rund 61,25 Prozent. Somit ist zu sagen, dass die Wichtigkeit von energieeffizienten Cloud Services bereits einen sehr hohen Stellenwert hat und auch in Zukunft zunehmen wird.
+<p align="justify">
+Bei der ersten Frage, wie wichtig es den Unternehmen ist, Cloud Services in einer energieeffizienten Form zur Verfügung zu stellen, haben die beteiligten Unternehmen von einer Skala von 1 bis 100 Prozent folgendermaßen geantwortet. Zwei Teilnehmer haben bei der Wichtigkeit rund 75 Prozent angegeben, ein Teilnehmer nur rund 10 Prozent und ein weiterer Teilnehmer rund 85 Prozent. Das ergibt einen Mittelwert von rund 61,25 Prozent. Somit ist zu sagen, dass die Wichtigkeit von energieeffizienten Cloud Services bereits einen sehr hohen Stellenwert hat und auch in Zukunft zunehmen wird.</p>
 
 ![image](/diagrams/question1.png)
 
 ### Frage 2 <br>
-Bei drei der vier beteiligten Unternehmen gibt es kein Monitoring der CO2 Emissionen.
+<p align="justify">
+Bei drei der vier beteiligten Unternehmen gibt es kein Monitoring der CO2 Emissionen.</p>
 ![image](/diagrams/question2.png)
 
 ### Frage 3 <br>
-Bei den beteiligten Unternehmen führen drei der vier Unternehmen keine Aufzeichnung ihrer CO2 Bilanzen.
+<p align="justify">
+Bei den beteiligten Unternehmen führen drei der vier Unternehmen keine Aufzeichnung ihrer CO2 Bilanzen.</p>
 ![image](/diagrams/question3.png)
 
 ### Frage 4 <br>
-Auf die Frage, ob die Unternehmen interne Regulierungen oder Standards haben, die verpflichtend sind für das Monitoring der C02 Äquivalenz der Services, haben drei der Beteiligten mit nein geantwortet und ein Beteiligter keine Angabe gemacht. Somit ist ersichtlich, dass die Unternehmen zurzeit keine vordefinierten Standards verfolgen hinsichtlich des Monitorings des CO2 Äquivalenz. Falls doch Aufzeichnungen vorgenommen werden, wie bereits bei der vorherigen Frage beantwortet, basiert diese Aufzeichnung auf freiwilliger Basis.
+<p align="justify">
+Auf die Frage, ob die Unternehmen interne Regulierungen oder Standards haben, die verpflichtend sind für das Monitoring der C02 Äquivalenz der Services, haben drei der Beteiligten mit nein geantwortet und ein Beteiligter keine Angabe gemacht. Somit ist ersichtlich, dass die Unternehmen zurzeit keine vordefinierten Standards verfolgen hinsichtlich des Monitorings des CO2 Äquivalenz. Falls doch Aufzeichnungen vorgenommen werden, wie bereits bei der vorherigen Frage beantwortet, basiert diese Aufzeichnung auf freiwilliger Basis.</p>
 ![image](/diagrams/question4.png)
 
 ### Frage 5 <br>
-Bei der Frage, ob es für den Endkonsumenten möglich ist, ihren CO2-Verbrauch, den sie bei der Verwendung von Cloud Services erzeugen einzusehen, gaben alle Unternehmen an, dies nicht zu unterstützen.
+<p align="justify">
+Bei der Frage, ob es für den Endkonsumenten möglich ist, ihren CO2-Verbrauch, den sie bei der Verwendung von Cloud Services erzeugen einzusehen, gaben alle Unternehmen an, dies nicht zu unterstützen.</p>
 ![image](/diagrams/question5.png)
 
 ### Frage 6 <br>
-Bei der Frage, wie die Unternehmen ihre CO2 Emissionen monitoren, hat die Hälfte angegeben, dass sie kein Monitoring durchführen und die andere Hälfte gab an, dass sie ihre Services monitoren aber wie genau das Monitoring durchgeführt wird, wurde leider nicht angegeben.
+<p align="justify">
+Bei der Frage, wie die Unternehmen ihre CO2 Emissionen monitoren, hat die Hälfte angegeben, dass sie kein Monitoring durchführen und die andere Hälfte gab an, dass sie ihre Services monitoren aber wie genau das Monitoring durchgeführt wird, wurde leider nicht angegeben.</p>
 ![image](/diagrams/question6.png)
 
 ### Frage 7 <br>
-Bei der Frage, ob es eine verantwortliche Person / Abteilung im Unternehmen gibt, welche sich mit dem Thema Green Cloud beschäftigt, gab es unterschiedliche Rückmeldungen. Zwei Teilnehmer haben angegeben, dass es keine verantwortlichen Personen im Unternehmen gibt, ein Teilnehmer hat keine Angaben gemacht und ein Teilnehmer hat angegeben, dass es Verantwortlichkeiten im Unternehmen gibt. 
+<p align="justify">
+Bei der Frage, ob es eine verantwortliche Person / Abteilung im Unternehmen gibt, welche sich mit dem Thema Green Cloud beschäftigt, gab es unterschiedliche Rückmeldungen. Zwei Teilnehmer haben angegeben, dass es keine verantwortlichen Personen im Unternehmen gibt, ein Teilnehmer hat keine Angaben gemacht und ein Teilnehmer hat angegeben, dass es Verantwortlichkeiten im Unternehmen gibt. </p>
 ![image](/diagrams/question7.png)
 
 ### Frage 8 <br>
-Bei der Frage, wie viel Prozent der benötigten/eingesetzten Energie für den Betrieb der Cloud Services aus erneuerbarer Energie kommt, haben drei der vier Beteiligten mit 100 Prozent geantwortet und ein Teilnehmer mit rund 83 Prozent.
+<p align="justify">
+Bei der Frage, wie viel Prozent der benötigten/eingesetzten Energie für den Betrieb der Cloud Services aus erneuerbarer Energie kommt, haben drei der vier Beteiligten mit 100 Prozent geantwortet und ein Teilnehmer mit rund 83 Prozent.</p>
 ![image](/diagrams/question8.png)
 
 ### Frage 9 <br>
-Von vier Beteiligten haben zwei Unternehmen kein Ranking in Bezug auf den Energieverbrauch von ihren Services, bei einem Unternehmen ist solch ein Ranking nicht bekannt und nur bei einem Unternehmen gibt es ein Ranking ihrer Services. 
+<p align="justify">
+Von vier Beteiligten haben zwei Unternehmen kein Ranking in Bezug auf den Energieverbrauch von ihren Services, bei einem Unternehmen ist solch ein Ranking nicht bekannt und nur bei einem Unternehmen gibt es ein Ranking ihrer Services. </p>
 ![image](/diagrams/question9.png)
 
 ### Frage 10 <br>
+<p align="justify">
 Weiters haben zwei Teilnehmer auch ein Ranking ihrer Cloud Services mit dem höchsten Energieverbrauch angegeben. Dazu nachfolgend eine Auflistung der energiereichsten Services in den Unternehmen:
 1.	metal as a service
 2.	gpu as a service
@@ -65,7 +76,7 @@ Weiters haben zwei Teilnehmer auch ein Ranking ihrer Cloud Services mit dem höc
 
 Das andere Unternehmen hat angegeben, dass sie mehr Energie bei den Backup Services verbrauchen als für andere Services im Unternehmen, aufgrund der hohen Anzahl an spinning disks (HDD’s).<br>
 
-Da uns vor alle der Begriff Metal as a Service aufgefallen ist und wir keinen Bezug dahingehend hatten, möchten wir kurz nachfolgend auf den Begriff Metal as a Service eingehen:
+Da uns vor alle der Begriff Metal as a Service aufgefallen ist und wir keinen Bezug dahingehend hatten, möchten wir kurz nachfolgend auf den Begriff Metal as a Service eingehen: </p>
 
 ## Metal as a Service /Metal (Bare-Metals) as a Service <br>
 ### Bedeutung: <br>
@@ -286,5 +297,5 @@ Energieeffizienzgesetz<br>
 
 EU-Kriterien für umweltfreundliche öffentliche Beschaffung für Rechenzentren<br>
 <https://publications.jrc.ec.europa.eu/repository/handle/JRC118558>
- </p>
+
 
