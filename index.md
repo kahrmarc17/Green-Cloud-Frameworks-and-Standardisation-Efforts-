@@ -182,7 +182,7 @@ Weitere Detailinformationen zum Projekt und wie man das Tool nutzt und installie
 Auch in Österreich gibt es bereits einen Cloud Provider mit Hauptstandort in Wien namens „greenWebspace“, welcher nachhaltig und energieeffizient Webspaces anbietet. Das Unternehmen wurde 2014 mit dem Motto „Let’s Green The Web Together“ gegründet und ist der erste österreichische Anbieter für Hosting und Web Solutions mit 100 Prozent CO2-neutralem Webhosting und kümmert sich zusätzlich um Klima und Web Solutions für die Gemeinwohl-Ökonomie. Nicht nur Webhosting kann betrieben werden, sondern es gibt sogar Angebote von Green Cloud Produkten und Domains. Außerdem gibt es sehr viel Transparenz zum Unternehmen auch was den Standort des Datencenters betrifft. Das Unternehmen wird aus 100 Prozent Ökostrom aus Wasserkraft des Anbieters „MeinAplenstrom“ betrieben und es wird spannenderweise auch pro User Account jährlich automatisch ein Baum gepflanzt. Außerdem wird explizit darauf hingewiesen, wieso sich das Unternehmen für diese Art der erneuerbaren Energie entschieden hat und welche Vorteile damit verbunden sind. Auch auf den Einsatz ihrer Hardware wird explizit eingegangen. Falls die Hardware nicht mehr für das primäre Einsatzziel verwendet werden kann, wird diese andersweit eingesetzt, um so die Ressourcenverschwendung zu minimieren. Weiters findet man auch die Daten zum jährlichen CO2 Verbrauch und weitere interessante Informationen, dass z.B. der Zugriff auf die Website durch die Aufforstung wieder kompensiert wird. Ein Hinweis zur Möglichkeit einer detaillierten Messung und Aufzeichnung der Energieeffizienz der genutzten Cloud Services für den Kunden, sowie das zur Verfügung stellen der Energiedaten dem Kunden, konnte leider nicht ausfindig gemacht werden. [greenWebspace 2021] </p>
 <br>
 
-## Cloud Anbieter Azure <br>
+### Cloud Anbieter Azure <br>
 <p align="justify">
 Als einer der größten Cloud Anbieter hat Microsoft bereits begonnen ihre Cloudinfrastruktur nachhaltig zu hosten. Hierbei hat Microsoft vier Kernbereiche: </p>
 
@@ -193,7 +193,7 @@ Als einer der größten Cloud Anbieter hat Microsoft bereits begonnen ihre Cloud
 Um die Nachhaltigkeit zu erreichen, setzt Microsoft auf eigene Unternehmensrichtlinien, wie z.B. interne CO2-Steuern, um die einzelnen Abteilungen dazu zu motivieren ihre Auswirkungen auf das Klima zu minimieren. Außerdem wird sehr viel in saubere Energieprojekte investiert, wie z.B. Windparks, Wasserkraftwerke oder Solarprojekte. Auch wird hinsichtlich der Energieeffizienz der bestehenden und zukünftigen Rechenzentren geforscht, wie z.B. die Implementierung von Rechenzentren auf dem Meeresboden, um so die Kühl- und Energiekosten senken zu können. Weiters wird auch maschinelles Lernen eingesetzt, um die Rechenzentrumsarchitektur verbessern zu können. Zukünftig ist geplant, dass die Rechenzentren rein durch Batterie oder Brennstoffzellen mit Hilfe von Wasserstoff betrieben werden können, um direkt vor Ort den Strom erzeugen zu können. [Oberhaus 2019] </p>
 <br>
 
-## Cloud Anbieter Google <br>
+### Cloud Anbieter Google <br>
 <p align="justify">
 Auch Google verfolgt in ihrer Cloudstrategie einen nachhaltigen Ansatz. Derzeit gibt Google an, dass sie heute schon CO2-neutral agieren, dennoch streben sie bis 2030 an, alle ihre Rechenzentren mit CO2 freien Energien zu betreiben, um Organisationen auf der ganzen Welt CO2 freie und nachhaltige Systeme zur Verfügung zu stellen. [Google Cloud 2021]
 Die Nachhaltigkeit wird durch den Einsatz erneuerbarer Energien aber auch durch maschinelles Lernen erreicht, indem Google ihre Rechenzentren kontinuierlich optimieren können, sprich basierend auf historischen Wetterdaten kann ein Algorithmus ermitteln, wann das Kühlsystem eines Rechenzentrums angepasst werden muss. [Oberhaus 2019]</p>
@@ -210,7 +210,7 @@ Gemessen wird der PUE-Wert (Power Usage Effectiveness). Die Messungen werden lau
 Der PUE-Wert ist ein Wert zur Messung der Effizienz. Hätte man einen PUE-Wert von 2,0 dann bedeutet das, dass für jedes Watt, das durch den Betrieb von IT-Geräten anfällt, ein weiteres Watt zu dessen Kühlung aufgewendet werden muss. Je näher der Wert bei 1,0, desto weniger Energie muss für die Kühlung aufgewandt werden und desto mehr Energie wird für die reine Rechenleistung selbst aufgewandt. [Google Rechenzentren 2021] </p>
 <br>
 
-## Cloud Anbieter Amazon <br>
+### Cloud Anbieter Amazon <br>
 <p align="justify">
 Auch Amazon verfolgt bei ihrer Cloudinfrastruktur einen nachhaltigen Ansatz. 2018 wurden bereits mehr als 50 Prozent der verbrauchten Energie für Amazon Web Services von erneuerbaren Energien geliefert. Des Weiteren werden zusätzlich erneuerbare Energieprojekte von Amazon finanziert, wie z.B. Windparks und Solarparks, um bis zum Jahr 2040 die Netto-Null-CO2-Emissionen zu erreichen. [AWS 2021]</p>
 
@@ -224,7 +224,7 @@ Jedoch ist interessant, dass Amazon angibt, aus welchen Messungen ihr CO2-Fußab
 Zwar geben alle der drei genannten Cloudanbietern öffentlich bekannt, dass sie CO2 neutral agieren und dies auch belegen können. Dennoch ist bei unseren Recherchen aufgefallen, dass bei keiner dieser drei Cloudanbietern die Möglichkeit für den Endkonsumenten besteht, den CO2 Verbrauch von einzelnen Services zu erfahren. </p>
 <br>
 
-## Bewertung der drei Cloud Provider <br>
+### Bewertung der drei Cloud Provider <br>
 Wired hat zusätzlich eine Bewertung der drei Cloud Provider basierend auf den Erkenntnissen aus ihrem [Report](https://www.wired.com/story/amazon-google-microsoft-green-clouds-and-hyperscale-data-centers/) durchgeführt:
 
 ### Bewertung Azure: <br>
@@ -248,7 +248,7 @@ Wired hat zusätzlich eine Bewertung der drei Cloud Provider basierend auf den E
 <br>
 <br>
  
-## Weiteres <br>
+### Weiteres <br>
 <p align="justify">
 Auch Greenpeace veröffentlicht immer wieder Berichte hinsichtlich Energie Transparenz, Nutzung erneuerbarer Energien, Energy Fußabdruck im IT-Sektor oder die Energieeffizienz von diversen Unternehmen im IKT Bereich wie z.B. Video Streaming Anbieter, Musikstreaming Anbieter, CDN Anbieter, Cloud Anbieter bis hin zu Sozial Media Anbieter. Dazu gehört auch der im Jahr 2010 veröffentlichte Bericht „How dirty is your data? A Look at the Energy Choices That Power Cloud Computing“. Es werden diverse inhaltliche Punkte hinsichtlich des IT-Kohlenstoffs und Energie Fußabdrucks besprochen, auch diverse Hintergrundinformationen zu den Rechenzentren und wie man richtig erneuerbare Energien bezieht und ein Vergleich diverser Unternehmen hinsichtlich Transparenz, Migration Strategie, Kohle Intensität sowie Index für saubere Energie durchgeführt. </p>
 
