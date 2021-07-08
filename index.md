@@ -9,8 +9,7 @@ In der Umfrage ging es um das Thema Transparenz der Energieeffizienz bei Cloud-D
 Für die kurze fünfminütige Umfrage wurde mit weltweitbekannten Cloudprovidern und auch kleineren regionalen Cloudprovidern Kontakt aufgenommen und um die Teilnahme bei der Umfrage gebeten. Die Umfrage wurde in diesem Zusammenhang in englischer Sprache verfasst, da es sich um ein globales Thema handelt und um somit eine Vielzahl an Teilnehmer anzusprechen. <br>
 Die gesamte Umfrage wurde anonym durchgeführt und alle Daten wurden vertraulich behandelt. Die Daten wurden nicht an Dritte weitergegeben und nur in zusammengefasster Form in einer GitHub Page veröffentlicht.<br>
 
-Link zur Umfrage siehe unterhalb:
-[Umfrage](https://github.com/kahrmarc17/Green-Cloud-Frameworks-and-Standardisation-Efforts-/blob/59de50a6925abb4a67d9037df72f7c4b8f525843/Cloudumfrage_Fragenkatalog_Gartner_Kahr.pdf)
+Link zur [Umfrage](https://github.com/kahrmarc17/Green-Cloud-Frameworks-and-Standardisation-Efforts-/blob/59de50a6925abb4a67d9037df72f7c4b8f525843/Cloudumfrage_Fragenkatalog_Gartner_Kahr.pdf)
 
 ## Auswertung
 
@@ -177,69 +176,69 @@ Zusammengefasst kann gesagt werden, dass es bereits eine Menge an Standards, Ver
 # Quellen
 
 
-[Joos & Ostler]
-Joos, Thomas; Ostler, Ulrike: Open Source für Bare Metal-as-a-Service, 2019, abgerufen am 30.06.2021
-https://www.datacenter-insider.de/open-source-fuer-bare-metal-as-a-service-a-862474/
+[Joos & Ostler] <br>
+Joos, Thomas; Ostler, Ulrike: Open Source für Bare Metal-as-a-Service, 2019, abgerufen am 30.06.2021<br>
+https://www.datacenter-insider.de/open-source-fuer-bare-metal-as-a-service-a-862474/<br>
 
-[Environment Agency Austria 2020]
-Environment Agency Austria: Energy efficient cloud computing, 2020, abgerufen am 27.06.2021,
-https://www.umweltbundesamt.at/en/news201110en
+[Environment Agency Austria 2020]<br>
+Environment Agency Austria: Energy efficient cloud computing, 2020, abgerufen am 27.06.2021,<br>
+https://www.umweltbundesamt.at/en/news201110en<br>
 
-[European Commission a 2021]
-European Commission: Green cloud and green data centres, 2021, abgerufen am 05.07.2021,
-https://digital-strategy.ec.europa.eu/en/policies/green-cloud
+[European Commission a 2021]<br>
+European Commission: Green cloud and green data centres, 2021, abgerufen am 05.07.2021,<br>
+https://digital-strategy.ec.europa.eu/en/policies/green-cloud<br>
 
-[Ballard a 2020]
-Ballard, Mark: Europe Edges Closer to Green Data Center Laws, Hrsg. DataCenter Knowledge, 2020, abgerufen am 03.07.2021,
-https://www.datacenterknowledge.com/regulation/europe-edges-closer-green-data-center-laws
+[Ballard a 2020]<br>
+Ballard, Mark: Europe Edges Closer to Green Data Center Laws, Hrsg. DataCenter Knowledge, 2020, abgerufen am 03.07.2021,<br>
+https://www.datacenterknowledge.com/regulation/europe-edges-closer-green-data-center-laws<br>
 
-[Ballard b 2020]
-Ballard, Mark: Data Center Operators Vie for Leverage as Europe Eyes Efficiency Rules, Hrsg. DataCenter Knowledge, 2020, abgerufen am 01.07.2021
-https://www.datacenterknowledge.com/regulation/data-center-operators-vie-leverage-europe-eyes-efficiency-rules
+[Ballard b 2020]<br>
+Ballard, Mark: Data Center Operators Vie for Leverage as Europe Eyes Efficiency Rules, Hrsg. DataCenter Knowledge, 2020, abgerufen am 01.07.2021<br>
+https://www.datacenterknowledge.com/regulation/data-center-operators-vie-leverage-europe-eyes-efficiency-rules<br>
 
-[Cloud Carbon Footprint a]
-Cloud Carbon Footprint: Cloud Carbon Footprint. Free and Open Source, abgerufen am 03.07.2021,
-https://www.cloudcarbonfootprint.org/
+[Cloud Carbon Footprint a]<br>
+Cloud Carbon Footprint: Cloud Carbon Footprint. Free and Open Source, abgerufen am 03.07.2021,<br>
+https://www.cloudcarbonfootprint.org/<br>
+<br>
+[Cloud Carbon Footprint b]<br>
+Cloud Carbon Footprint: Cloud Carbon Footprint. Free and Open Source, abgerufen am 03.07.2021,<br>
+https://www.cloudcarbonfootprint.org/docs/overview<br>
 
-[Cloud Carbon Footprint b]
-Cloud Carbon Footprint: Cloud Carbon Footprint. Free and Open Source, abgerufen am 03.07.2021,
-https://www.cloudcarbonfootprint.org/docs/overview
-
-[greenWebspace 2021]
-greenWebspace: Transparenz. Einblicke in Daten & Fakten, 2021, abgerufen am 25.06.2021,
+[greenWebspace 2021]<br>
+greenWebspace: Transparenz. Einblicke in Daten & Fakten, 2021, abgerufen am 25.06.2021,<br>
 https://greenwebspace.com/ueber-uns/transparenz/
 
-[Microsoft Azure 2021]
-Microsoft Azure: Azure-Nachhaltigkeit. Auswirkungen vor Ort, 2021, abgerufen am 07.07.2021,
+[Microsoft Azure 2021]<br>
+Microsoft Azure: Azure-Nachhaltigkeit. Auswirkungen vor Ort, 2021, abgerufen am 07.07.2021,<br>
 Quelle: https://azure.microsoft.com/de-de/global-infrastructure/sustainability/#local-impact 
 
-[Oberhaus 2019]
-Oberhaus, Daniel: Amazon, Google, Microsoft: Here's Who Has the Greenest Cloud. A WIRED report card on the top three cloud providers shows how their environmental claims stack up, Hrsg. WIRED, 2019, abgerufen am 07.07.2021,
+[Oberhaus 2019]<br>
+Oberhaus, Daniel: Amazon, Google, Microsoft: Here's Who Has the Greenest Cloud. A WIRED report card on the top three cloud providers shows how their environmental claims stack<br> up, Hrsg. WIRED, 2019, abgerufen am 07.07.2021,<br>
 https://www.wired.com/story/amazon-google-microsoft-green-clouds-and-hyperscale-data-centers/
 
-[Google Cloud 2021]
-Google Cloud: Nachhaltigkeit in der Cloud, 2021, abgerufen am 07.07.2021,
+[Google Cloud 2021]<br>
+Google Cloud: Nachhaltigkeit in der Cloud, 2021, abgerufen am 07.07.2021,<br>
 https://cloud.google.com/sustainability?hl=de 
 
-[Google Rechenzentren 2021]
-Google Rechenzentren: Effizienz, 2021, abgerufen am 07.07.2021, 
+[Google Rechenzentren 2021]<br>
+Google Rechenzentren: Effizienz, 2021, abgerufen am 07.07.2021, <br>
 https://www.google.com/about/datacenters/efficiency/
 
-[AWS 2021]
-AWS: AWS und Nachhaltigkeit. Höchste Umweltverträglichkeit ist bei AWS und seinen Unternehmensabläufen Pflicht, 2021, abgerufen am 07.07.2021,
-Quelle: https://aws.amazon.com/de/about-aws/sustainability/ 
+[AWS 2021]<br>
+AWS: AWS und Nachhaltigkeit. Höchste Umweltverträglichkeit ist bei AWS und seinen Unternehmensabläufen Pflicht, 2021, abgerufen am 07.07.2021,<br>
+ https://aws.amazon.com/de/about-aws/sustainability/ 
 
-[Amazon 2021]
-Amazon: Sustainable Operations. Carbon Footprint, 2021, abgerufen am 07.07.2021,
+[Amazon 2021]<br>
+Amazon: Sustainable Operations. Carbon Footprint, 2021, abgerufen am 07.07.2021,<br>
 https://sustainability.aboutamazon.com/environment/sustainable-operations/carbon-footprint
 
 
 
-[Amazon 2020]
-Amazon: Reaching Net Zero Carbon by 2040. Measuring, Mapping, and Reducing Carbon the Amazonian Way, 2020, abgerufen am 07.07.2021,
+[Amazon 2020]<br>
+Amazon: Reaching Net Zero Carbon by 2040. Measuring, Mapping, and Reducing Carbon the Amazonian Way, 2020, abgerufen am 07.07.2021,<br>
 https://sustainability.aboutamazon.com/carbon-methodology.pdf
 
-[Cook & Von Horn 2010]
+[Cook & Von Horn 2010]<br>
 Cook, Gary; Van Horn, Jodie: How dirty is your data?. A Look at the Energy Choices That Power Cloud Computing, Hrsg. Greenpeace International, Amsterdam 2010, abgerufen am 28.06.2021,
 http://archivo-es.greenpeace.org/espana/Global/espana/report/cambio_climatico/dirty-data-report-greenpeace.pdf
 
