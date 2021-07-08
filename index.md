@@ -157,6 +157,16 @@ Unterhalb ein Ausschnitt der Bewertung der diversen Unternehmen hinsichtlich der
 ![image](/diagrams/cleancloudpowerreportcard.png)<br>
 [Cook & Von Horn 2010]
 
+Ein ähnlicher Bericht von Greenpeace aus dem Jahr 2017 ist der Clicking Clean Bericht „Who is winning the race to build a green interent?“. Auch hier werden diverse IKT Unternehmen wie z.B. Amazon, Apple, Facebook, Google, Microsoft und Co. in diversen Kategorien (Energie Transparenz, Erneuerbare Energie, Energie Effizienz, usw.) miteinander verglichen und eine Bewertung vorgenommen. Weitere Informationen findet man unter [Clicking Clean](https://www.greenpeace.de/sites/www.greenpeace.de/files/publications/20170110_greenpeace_clicking_clean.pdf).
+Wenn man nun die Bewertung der Energie Transparenz der drei großen Cloud Provider Google, Amazon und Microsoft vom Jahr 2010 mit dem Jahr 2017 vergleicht, sieht man sehr deutlich, dass die Energietransparenz von Amazon mit der Note „F“ (schlechteste Note) gleichgeblieben ist und somit eigentlich gar keine Transparenz gewährt. Google hat sich hingegen von der Note „F“ im Jahr 2010 auf die Note „B“ im Jahr 2017 verbessert und auch Microsoft bietet mehr Transparenz hinsichtlich seiner Services und konnte somit eine Verbesserung von der Note „C“ (Durchschnitt) auf die Note „B“ erreichen.
+Vergleicht man weiters den [Artikel von Wired](https://www.wired.com/story/amazon-google-microsoft-green-clouds-and-hyperscale-data-centers/) aus dem Jahr 2019, ist ersichtlich, dass sowohl Google als auch Microsoft ihre Energieeffizienz noch weiter steigern konnten und somit eine Transparenz der Note „A“ (beste Note) erreicht konnten. Amazon hingegen hat in den letzten zehn Jahren eigentlich keine Verbesserung der Energie Transparenz vorgenommen und liegt seit dem Jahr 2010 bis zum Jahr 2019 noch immer an letzter Stelle der Bewertung mit der Note „F“. [Cook et al 2017]
+Unterhalb ein Bild aus dem Clicking Clean Report mit der Übersicht diverser IKT Unternehmen und die Bewertung hinsichtlich diverser Faktoren, wie z.B. der Energie Transparenz oder der Erneuerbaren Energien.
+
+# Zusammenfassung
+
+![image](/diagrams/clickandcleanreport.png)<br>
+[Cook et al 2017]
+
 
 
   #  Vorlage
