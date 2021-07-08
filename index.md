@@ -5,7 +5,7 @@ Bestrebungen zur energieeffizienten Nutzung von IT sind in einigen Bereichen ber
 ## Einführung <br>
 <p align="justify">
 Im Rahmen der Lehrveranstaltung "Selected Topics in Network Technologies" an der Fachhochschule JOANNEUM in Graz, führten die beiden Studenten Florian Gartner, BSc und Marcel Kahr, BSc eine Umfrage zum Thema "Green Cloud Frameworks und Standardisierungsbemühungen" durch. <br>
-In der Umfrage ging es um das Thema Transparenz der Energieeffizienz bei Cloud-Diensten (VM's) sowie um den "ökologischen Fußabdruck" / "Kohlenstoff-Emissionen", der durch die Nutzung bestimmter Cloud-Dienste entsteht.</p> <br>
+In der Umfrage ging es um das Thema Transparenz der Energieeffizienz bei Cloud-Diensten (VM's) sowie um den "ökologischen Fußabdruck" / "Kohlenstoff-Emissionen", der durch die Nutzung bestimmter Cloud-Dienste entsteht. <br>
 
 Für die kurze fünfminütige Umfrage wurde mit weltweitbekannten Cloudprovidern und auch kleineren regionalen Cloudprovidern Kontakt aufgenommen und um die Teilnahme bei der Umfrage gebeten. Die Umfrage wurde in diesem Zusammenhang in englischer Sprache verfasst, da es sich um ein globales Thema handelt und um somit eine Vielzahl an Teilnehmer anzusprechen. <br>
 
