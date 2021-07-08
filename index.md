@@ -119,6 +119,35 @@ Google misst explizit den Energieverbrauch der Rechenzentren mittels Online-Leis
 Der PUE-Wert ist ein Wert zur Messung der Effizienz. Hätte man einen PUE-Wert von 2,0 dann bedeutet das, dass für jedes Watt, das durch den Betrieb von IT-Geräten anfällt, ein weiteres Watt zu dessen Kühlung aufgewendet werden muss. Je näher der Wert bei 1,0, desto weniger Energie muss für die Kühlung aufgewandt werden und desto mehr Energie wird für die reine Rechenleistung selbst aufgewandt. [Google Rechenzentren 2021]
 
 ## Cloud Anbieter Amazon
+Auch Amazon verfolgt bei ihrer Cloudinfrastruktur einen nachhaltigen Ansatz. 2018 wurden bereits mehr als 50 Prozent der verbrauchten Energie für Amazon Web Services von erneuerbaren Energien geliefert. Des Weiteren werden zusätzlich erneuerbare Energieprojekte von Amazon finanziert, wie z.B. Windparks und Solarparks, um bis zum Jahr 2040 die Netto-Null-CO2-Emissionen zu erreichen. [AWS 2021]
+Die Nachhaltigkeit konnte Amazon durch Investitionen in Stromabnahmeverträge, wie z.B. in drei neue Windparks und sechs Solarparks und weitere im Bau befindliche Anlagen, erzielen. Amazon hat bei der Transparenz schlecht abgeschnitten, da das Unternehmen dazu geneigt war, Informationen zum CO2-Fußabdruck nicht zu veröffentlichen, erst seit dem Jahr 2018 gibt es allmählich einzelne Informationen. Außerdem gibt es keine klare Roadmap, wie das Unternehmen das Ziel von 100 Prozent erneuerbarer Energie erreichen möchte. Weiters gibt es auch keine Auskünfte darüber welche Innovationen in Zukunft für den Betrieb der Rechenzentren zu erwarten sind. [Oberhaus 2019]
+Jedoch ist interessant, dass Amazon angibt, aus welchen Messungen ihr CO2-Fußabdruck zustande kommt. Dabei wird auf fünf Modelle Wert gelegt, um einen detaillierten Blick auf den Fußabdruck zu haben. Unter dem Modell Elektrizität ist erwähnenswert, dass auch der Energieverbrauch der Büros und auch der Rechenzentren gemessen wird, jedoch gibt es keine weiteren Infos ob auch die einzelnen Services gemessen werden. [Amazon 2021], [Amazon 2020]
+
+
+Zwar geben alle der drei genannten Cloudanbietern öffentlich bekannt, dass sie CO2 neutral agieren und dies auch belegen können. Dennoch ist bei unseren Recherchen aufgefallen, dass bei keiner dieser drei Cloudanbietern die Möglichkeit für den Endkonsumenten besteht, den CO2 Verbrauch von einzelnen Services zu erfahren. 
+
+## Bewertung der drei Cloud Provider
+Wired hat zusätzlich eine Bewertung der drei Cloud Provider basierend auf den Erkenntnissen aus ihrem [Report](https://www.wired.com/story/amazon-google-microsoft-green-clouds-and-hyperscale-data-centers/) durchgeführt:
+### Bewertung Azure:
+-	Gesamtgrünheit: B
+-	Energieeffizienz: A
+-	Transparenz: A
+-	Technologische Innovation: A+
+
+### Bewertung Google:
+-	Gesamtgrünheit: B+
+-	Energieeffizienz: A+
+-	Transparenz: A
+-	Technologische Innovation: A
+
+### Bewertung Amazon:
+-	Gesamtgrünheit: C-
+-	Energieeffizienz: B
+-	Transparenz: F
+-	Technologische Innovation: Unbekannt <br>
+[Oberhaus 2019]
+
+## Weiteres
 
 
 
