@@ -9,6 +9,9 @@ In der Umfrage ging es um das Thema Transparenz der Energieeffizienz bei Cloud-D
 Für die kurze fünfminütige Umfrage wurde mit weltweitbekannten Cloudprovidern und auch kleineren regionalen Cloudprovidern Kontakt aufgenommen und um die Teilnahme bei der Umfrage gebeten. Die Umfrage wurde in diesem Zusammenhang in englischer Sprache verfasst, da es sich um ein globales Thema handelt und um somit eine Vielzahl an Teilnehmer anzusprechen. <br>
 Die gesamte Umfrage wurde anonym durchgeführt und alle Daten wurden vertraulich behandelt. Die Daten wurden nicht an Dritte weitergegeben und nur in zusammengefasster Form in einer GitHub Page veröffentlicht.<br>
 
+Link zur Umfrage siehe unterhalb:
+[Umfrage](https://github.com/kahrmarc17/Green-Cloud-Frameworks-and-Standardisation-Efforts-/blob/59de50a6925abb4a67d9037df72f7c4b8f525843/Cloudumfrage_Fragenkatalog_Gartner_Kahr.pdf)
+
 ## Auswertung
 
 ### Frage 1<br>
@@ -172,4 +175,107 @@ Unterhalb ein Bild aus dem Clicking Clean Report mit der Übersicht diverser IKT
 Zusammengefasst kann gesagt werden, dass es bereits eine Menge an Standards, Verhaltenskodizes, Guidelines und Richtlinien für energieeffizientes Cloud Computing gibt, jedoch wurde in keiner der Publikationen auf Standards und Richtlinien bezüglich der Themen Energietransparenz und Messung des Energieverbrauchs der einzelnen Cloudservices hingewiesen und eingegangen. Während der Wille und auch schon Aktionen für die Reduzierung des Energieverbrauches der Rechenzentren Anklang genommen hat, sind jedoch die Regulierungen zur Energietransparenz der Unternehmen sowie die Veröffentlichung von Energiedaten für die Bevölkerung noch im Hintergrund geblieben. Auch gibt es schon veröffentlichte Berichte wie z.B. der [Clicking Clean Report](https://www.greenpeace.de/sites/www.greenpeace.de/files/publications/20170110_greenpeace_clicking_clean.pdf) von Greenpeace oder auch auf den einzelnen Seiten der großen Cloudanbieter, wie z.B. Google, Amazon und Microsoft, welche Hinweise über den energieeffizienten Einsatz der Energie zum Betrieb der Rechenzentren geben oder auch hinsichtlich ihrer Energie Transparenz. Jedoch gibt es keine expliziten Angaben zur Transparenz für die Einsichtnahme des Energieverbrauchs der einzelnen Cloudservices. Lediglich gibt es schon einige Tools bzw. ein Tool, das wir ausfindig machen konnten namens „Cloud Carbon Footprint“, welches den CO2-Fußabdruck der Cloud sogar bis auf Service Ebene für diverse Anbieter messen kann. Auch wird die Messung bzw. eine Aufzeichnung des Energieverbrauchs der Services von einzelnen Unternehmen bereits durchgeführt, siehe Ergebnis Umfrage, jedoch werden die Daten noch nicht veröffentlich bzw. sind nicht für den End User frei zugänglich. Somit messen die Unternehmen aus Eigeninteresse, um ihre Services energieeffizienter gestalten zu können, was natürlich sehr positiv zu betrachten ist, jedoch sollten auch die End User wissen, woher der Strom für ihre Services kommt bzw. wieviel Energie ihr betriebener Service in der Cloud benötigt, um Vergleiche zwischen den Anbietern tätigen zu können. Aber vermutlich ist das auch das Problem, dass die Cloud Provider ihren Energieverbrauch nicht veröffentlichen, entweder weil sie keine Messung ihrer Cloud Services durchführen oder keine Transparenz ihres Energieverbrauchs selbst haben, weil diese aufgrund von nicht erneuerbarer Strombeschaffung ein schlechteres Image hätten und womöglich der User mehr für den Service zahlen müsste als bei einem anderen Anbieter. Somit ist die Transparenz für diverse Cloud Provider ein schwieriges Thema, da dies eine Imagefrage bzw. eine Wettbewerbsfrage für die Cloud Provider darstellt. Vermutlich gibt es aus diesem Grund noch keine einheitliche Richtline oder Verordnungen von den diversen Regierungen für eine allgemeine Energietransparenz für Cloud Services, jedoch dürfte aufgrund der immer stärker werdenden Präsenz des Themas auch in Zukunft Regulierungen und Richtlinien für die Energietransparenz der Cloud Services Anklang bekommen. 
 
 # Quellen
+
+
+[Joos & Ostler]
+Joos, Thomas; Ostler, Ulrike: Open Source für Bare Metal-as-a-Service, 2019, abgerufen am 30.06.2021
+https://www.datacenter-insider.de/open-source-fuer-bare-metal-as-a-service-a-862474/
+
+[Environment Agency Austria 2020]
+Environment Agency Austria: Energy efficient cloud computing, 2020, abgerufen am 27.06.2021,
+https://www.umweltbundesamt.at/en/news201110en
+
+[European Commission a 2021]
+European Commission: Green cloud and green data centres, 2021, abgerufen am 05.07.2021,
+https://digital-strategy.ec.europa.eu/en/policies/green-cloud
+
+[Ballard a 2020]
+Ballard, Mark: Europe Edges Closer to Green Data Center Laws, Hrsg. DataCenter Knowledge, 2020, abgerufen am 03.07.2021,
+https://www.datacenterknowledge.com/regulation/europe-edges-closer-green-data-center-laws
+
+[Ballard b 2020]
+Ballard, Mark: Data Center Operators Vie for Leverage as Europe Eyes Efficiency Rules, Hrsg. DataCenter Knowledge, 2020, abgerufen am 01.07.2021
+https://www.datacenterknowledge.com/regulation/data-center-operators-vie-leverage-europe-eyes-efficiency-rules
+
+[Cloud Carbon Footprint a]
+Cloud Carbon Footprint: Cloud Carbon Footprint. Free and Open Source, abgerufen am 03.07.2021,
+https://www.cloudcarbonfootprint.org/
+
+[Cloud Carbon Footprint b]
+Cloud Carbon Footprint: Cloud Carbon Footprint. Free and Open Source, abgerufen am 03.07.2021,
+https://www.cloudcarbonfootprint.org/docs/overview
+
+[greenWebspace 2021]
+greenWebspace: Transparenz. Einblicke in Daten & Fakten, 2021, abgerufen am 25.06.2021,
+https://greenwebspace.com/ueber-uns/transparenz/
+
+[Microsoft Azure 2021]
+Microsoft Azure: Azure-Nachhaltigkeit. Auswirkungen vor Ort, 2021, abgerufen am 07.07.2021,
+Quelle: https://azure.microsoft.com/de-de/global-infrastructure/sustainability/#local-impact 
+
+[Oberhaus 2019]
+Oberhaus, Daniel: Amazon, Google, Microsoft: Here's Who Has the Greenest Cloud. A WIRED report card on the top three cloud providers shows how their environmental claims stack up, Hrsg. WIRED, 2019, abgerufen am 07.07.2021,
+https://www.wired.com/story/amazon-google-microsoft-green-clouds-and-hyperscale-data-centers/
+
+[Google Cloud 2021]
+Google Cloud: Nachhaltigkeit in der Cloud, 2021, abgerufen am 07.07.2021,
+https://cloud.google.com/sustainability?hl=de 
+
+[Google Rechenzentren 2021]
+Google Rechenzentren: Effizienz, 2021, abgerufen am 07.07.2021, 
+https://www.google.com/about/datacenters/efficiency/
+
+[AWS 2021]
+AWS: AWS und Nachhaltigkeit. Höchste Umweltverträglichkeit ist bei AWS und seinen Unternehmensabläufen Pflicht, 2021, abgerufen am 07.07.2021,
+Quelle: https://aws.amazon.com/de/about-aws/sustainability/ 
+
+[Amazon 2021]
+Amazon: Sustainable Operations. Carbon Footprint, 2021, abgerufen am 07.07.2021,
+https://sustainability.aboutamazon.com/environment/sustainable-operations/carbon-footprint
+
+
+
+[Amazon 2020]
+Amazon: Reaching Net Zero Carbon by 2040. Measuring, Mapping, and Reducing Carbon the Amazonian Way, 2020, abgerufen am 07.07.2021,
+https://sustainability.aboutamazon.com/carbon-methodology.pdf
+
+[Cook & Von Horn 2010]
+Cook, Gary; Van Horn, Jodie: How dirty is your data?. A Look at the Energy Choices That Power Cloud Computing, Hrsg. Greenpeace International, Amsterdam 2010, abgerufen am 28.06.2021,
+http://archivo-es.greenpeace.org/espana/Global/espana/report/cambio_climatico/dirty-data-report-greenpeace.pdf
+
+[Cook et al 2017]
+Cook, Gary et al.: Clicking Clean: Who is winning the race to build a green internet?, Hrsg. Greenpeace Inc., Washington 2017, abgerufen am 23.06.2021,
+https://www.greenpeace.de/sites/www.greenpeace.de/files/publications/20170110_greenpeace_clicking_clean.pdf
+
+[EU Science Hub 2016]
+EU Science Hub: Code of Conduct for Energy Efficiency in Data Centres, 2016, abgerufen am 24.06.2021, https://ec.europa.eu/jrc/en/energy-efficiency/code-conduct/datacentres
+
+[European Commission b 2021]
+European Commission: Energy-efficient Cloud Computing Technologies and Policies for an Eco-friendly Cloud Market, 2020, abgerufen am 05.07.2021, 
+https://digital-strategy.ec.europa.eu/en/library/energy-efficient-cloud-computing-technologies-and-policies-eco-friendly-cloud-market
+
+[Montevecchi, F. et al. 2020]
+Montevecchi, F., Stickler, T., Hintemann, R., Hinterholzer, S. (2020). Energy-efficient Cloud Computing Technologies and Policies for an Eco-friendly Cloud Market. Final Study Report. Vienna, https://ec.europa.eu/newsroom/dae/document.cfm?doc_id=71330
+
+
+
+
+
+
+## Verwandte Literatur:
+
+Verhaltenskodex für Energieeffizienz in Rechenzentren 2021
+https://e3p.jrc.ec.europa.eu/sites/default/files/documents/publications/jrc123653_jrc119571_2021_best_practice_guidelines_final_v1_1.pdf
+
+Digitalisierungsstrategie
+https://ec.europa.eu/digital-single-market/en/content/european-digital-strategy
+
+Ökodesign-Anforderungen an Server und Datenspeicherprodukten
+https://eur-lex.europa.eu/legal-content/DE/TXT/PDF/?uri=CELEX:32019R0424&from=EN
+
+Energieeffizienzgesetz
+https://www.bmk.gv.at/themen/energie/effizienz/recht/effizienzgesetz.html
+
+EU-Kriterien für umweltfreundliche öffentliche Beschaffung für Rechenzentren
+https://publications.jrc.ec.europa.eu/repository/handle/JRC118558
 
